@@ -12,7 +12,7 @@ var myCreature, anotherCreature;
 
 function preload(){
   star= loadImage("spark.png");
-    sound= loadSound("backgroundMusic.mp3");
+    sound= loadSound("BackgroundMusic.mp3");
 //effect1=loadSound("jijijiji.mp3");
 effect2=loadSound("ppyo.mp3");
 //effect3=loadSound("tantantan.mp3");
